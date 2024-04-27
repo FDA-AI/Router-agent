@@ -1,5 +1,6 @@
 # Simple Document QA demo with Upstage Full-stack LLM
 
+These are self-contained sample snippets to get you started.
 
 ## Setup
 ``` bash
