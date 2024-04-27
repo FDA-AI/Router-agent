@@ -23,7 +23,7 @@ python docqa.py
 ## Retrieval (takes ~3 mins)
 
 - Input:
-    - Single PDF document or documents
+    - Single PDF document or documents. Here we download [this paper](https://www.nature.com/articles/s41467-018-04252-2) and rename it to `./crispr.pdf`.
     - Question: "What are the future directions of CRISPR?"
 - Output: Returns most relevant n chunks from a Vector DB.
 
