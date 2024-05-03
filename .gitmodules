@@ -1,0 +1,3 @@
+[submodule "upstage-retrieval"]
+	path = upstage-retrieval
+	url = https://gist.github.com/7329318a000330e1688409d9dc4ca781.git
